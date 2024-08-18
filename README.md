@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @tthmung<br>🌱 I’m currently in College majoring in computer science<br>💞️ I’m looking to collaborate on fun little projects so that I can learn<br>⚡My hobbies are sports and video games
+👋 Hi, I’m @tthmung<br>🌱 I’m currently in working as a database admin<br>💞️ I’m looking to collaborate on fun little projects so that I can learn<br>⚡My hobbies are sports and video games
 
 
 ## 🌐 Socials:
